@@ -1,2 +1,2 @@
-# textos
+# TEXTOS
 Repositorio de Prueba
